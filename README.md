@@ -1,4 +1,4 @@
-# s3-secure-staticweb-
+# s3-secure-staticweb
 
 
    $ git clone https://github.com/Aswathir26/s3-secure-staticweb.git
